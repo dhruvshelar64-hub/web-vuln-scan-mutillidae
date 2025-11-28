@@ -13,8 +13,7 @@ This repository contains a detailed vulnerability assessment report for a Metasp
 ## Contents
 
 - [Vulnerability Assessment Report](Vulnerability_Assessment_Report.pdf)
-- Screenshots (optional)
-- Methodology notes (optional)
+- Screenshots 
 
 ## Tools Used
 
