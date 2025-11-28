@@ -19,10 +19,7 @@ This repository contains a detailed vulnerability assessment report for a Metasp
 ## Tools Used
 
 - Nmap
-- Nikto
 - Metasploit
-- Burp Suite
-- Other relevant tools
 
 ## Methodology
 
